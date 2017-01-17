@@ -1,0 +1,2 @@
+/* For bootstrap, because angular */
+.nav, .pagination, .carousel, .panel-title a { cursor: pointer; }
